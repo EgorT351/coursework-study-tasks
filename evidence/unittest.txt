@@ -1,0 +1,13 @@
+test_add_and_unique_id (test_task_manager.TaskManagerTests.test_add_and_unique_id) ... ok
+test_complete (test_task_manager.TaskManagerTests.test_complete) ... ok
+test_delete (test_task_manager.TaskManagerTests.test_delete) ... ok
+test_empty_fields (test_task_manager.TaskManagerTests.test_empty_fields) ... ok
+test_failed_replace_preserves_file (test_task_manager.TaskManagerTests.test_failed_replace_preserves_file) ... ok
+test_invalid_files (test_task_manager.TaskManagerTests.test_invalid_files) ... ok
+test_invalid_records (test_task_manager.TaskManagerTests.test_invalid_records) ... ok
+test_roundtrip_and_missing (test_task_manager.TaskManagerTests.test_roundtrip_and_missing) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.004s
+
+OK
